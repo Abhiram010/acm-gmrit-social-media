@@ -18,7 +18,7 @@ body {
   text-decoration: none;
 }
 .topheading {
-  margin-top: 06%;
+  margin-top: 04%;
   display: flex;
   flex-direction: column;
   flex: 1 1 1;
@@ -26,7 +26,7 @@ body {
   align-items: center;
 }
 #logo {
-  height: 10rem;
+  height: 8rem;
   position: relative;
   animation: round 3s;
   background-color: #fff;
