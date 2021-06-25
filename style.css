@@ -55,7 +55,7 @@ a {
   animation: upside 3s;
 }
 
-.a:hover {
+a:hover {
   background: linear-gradient(45deg, rgb(98, 245, 53), rgb(70, 82, 241));
   border: none;
   cursor: pointer;
