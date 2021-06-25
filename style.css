@@ -2,6 +2,8 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+   -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none; 
 }
 body {
   background: linear-gradient(100deg, #68a4f1, #e75b53, #e9ce64);
